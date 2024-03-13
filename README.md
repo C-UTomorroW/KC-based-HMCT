@@ -1,4 +1,4 @@
-# KC-based-HMCT
+
 # KC-Based HMCT
 
 ## Table of Contents
